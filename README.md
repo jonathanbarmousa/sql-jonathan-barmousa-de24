@@ -1,3 +1,3 @@
 # sql course for beginners
 
-test
+test 2
