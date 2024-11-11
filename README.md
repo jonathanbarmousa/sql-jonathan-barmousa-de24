@@ -1,4 +1,4 @@
-# sql course for beginners
+# sql course duckdb
 
-test 2
+
 
