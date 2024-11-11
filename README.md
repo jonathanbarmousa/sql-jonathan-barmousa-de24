@@ -1,1 +1,1 @@
-# sql-jonathan-barmousa-de24
+# sql course using duckdb
